@@ -1,0 +1,12 @@
+Source: zoom-vdi
+Section: unknown
+Priority: optional
+Maintainer: Development Team <devteam@openthinclient.com>
+
+Package: zoom-vdi
+Architecture: amd64
+Description: Zoom VDI Universal Plugin
+ Improves audio and video performance for VDI Zoom Workplace clients.
+ .
+ This package will be installed automatically as a dependency of supported VDI clients.
+XB-License: By installing this app, you agree the Zoom Terms of Service (https://explore.zoom.us/terms) and Privacy Statement (https://explore.zoom.us/privacy).
